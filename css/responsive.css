@@ -1,0 +1,57 @@
+@media only screen and (max-width: 1025px){
+    .video-overlay h2 {
+        font-size: 2.5em; /* Adjust font size as needed */
+        text-align: center; /* Center the text */
+        font-family: "Luckiest Guy", cursive;
+        position: absolute;
+        padding: 50px;
+    }
+    .video-overlay p {
+        font-size: 1em; /* Adjust font size for the paragraph */
+        margin-top: 200px; /* Space between heading and paragraph */
+        text-align: center; /* Center the paragraph */
+        position: absolute;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 920px){
+    .navbar {
+        margin: 0;
+    }
+}
+
+
+
+@media only screen and (max-width: 590px){
+    .nav-links {
+        display: none;
+    }
+    .video-overlay h2 {
+        font-size: 2em; /* Adjust font size as needed */
+        text-align: center; /* Center the text */
+        font-family: "Luckiest Guy", cursive;
+        position: absolute;
+        padding: 50px;
+    }
+    .video-overlay p {
+        font-size: 0.7em; /* Adjust font size for the paragraph */
+        margin-top: 200px; /* Space between heading and paragraph */
+        text-align: center; /* Center the paragraph */
+        position: absolute;
+    }
+    .video-overlay h2 {
+        font-size: 1em; /* Adjust font size as needed */
+        text-align: center; /* Center the text */
+        font-family: "Luckiest Guy", cursive;
+        position: absolute;
+    }
+    .video-overlay p {
+        font-size: 0.5em; /* Adjust font size for the paragraph */
+        margin-top: 200px; /* Space between heading and paragraph */
+        text-align: center; /* Center the paragraph */
+        position: absolute;
+    }
+}
